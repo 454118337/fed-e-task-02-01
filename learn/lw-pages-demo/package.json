@@ -1,0 +1,16 @@
+{
+  "name": "lw-pages-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "lw-pages build",
+    "clean": "lw-pages clean"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lw-pages": "^0.1.1"
+  }
+}

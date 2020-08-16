@@ -1,0 +1,16 @@
+{
+  "name": "fis-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fis3": "^3.4.44"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fis": "fis3"
+  },
+  "author": "",
+  "license": "ISC"
+}
